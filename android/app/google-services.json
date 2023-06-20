@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "693069361385",
+    "project_id": "food-delivery-express-7f7fc",
+    "storage_bucket": "food-delivery-express-7f7fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693069361385:android:c44b4e645647f7b0698078",
+        "android_client_info": {
+          "package_name": "com.elachyry.fde_restaurant_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693069361385-ung5tglqelb2v4u3ans3prl5lru853r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrRS9SegKYRAFhTn_dya96QvV6ZZfinQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693069361385-ll2a72ilplrb7v31m7g1qf3pdqtgl5om.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693069361385-ijoqj73s3qta7e96k1f5k0d6q9ms3eog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.multiLanguges"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693069361385:android:013481698855c786698078",
+        "android_client_info": {
+          "package_name": "com.example.multi_languges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693069361385-jsnc4hs9i35rgah68hejrvs2s5c1h801.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multi_languges",
+            "certificate_hash": "fc776cd044e09574621c722f7060c4b936d61278"
+          }
+        },
+        {
+          "client_id": "693069361385-ung5tglqelb2v4u3ans3prl5lru853r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrRS9SegKYRAFhTn_dya96QvV6ZZfinQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693069361385-ll2a72ilplrb7v31m7g1qf3pdqtgl5om.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693069361385-ijoqj73s3qta7e96k1f5k0d6q9ms3eog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.multiLanguges"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
